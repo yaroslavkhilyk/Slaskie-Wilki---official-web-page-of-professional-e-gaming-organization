@@ -2,7 +2,7 @@ Slaskiewilki.pl - it`s a professional (non-real) e-sport organization from Polan
 
 TECHNICAL PARAMETERS OF THIS PROJECT:
 
-CODE WRITTING METHOD: CODE WITH INSTRUCTOR (CwI), Instructor: Mateusz Maj)
+CODE WRITTING METHOD: CODE WITH INSTRUCTOR (CwI), Instructor: Mateusz Maj
 
 TECHNOLOGIES, WHICH WAS USED TO MAKE THIS PROJECT:
 
