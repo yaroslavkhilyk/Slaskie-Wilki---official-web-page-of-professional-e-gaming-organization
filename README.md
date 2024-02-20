@@ -17,4 +17,4 @@ PROJECT LINK: https://yaroslavkhilyk.github.io/Slaskie-Wilki---official-web-page
 
 ## MAIN GOALS OF THIS PROJECT:
 
-My main goals while I was working on this project were to deepen my knowledge of HTML, CSS/SASS, JavaScript technologies, and to learn good practices for creating responsive and user-friendly websites.
+My main goals while I was working on this project were to deepen my understanding of HTML, CSS/SASS, JavaScript and to learn how to use my knowledge about responsive web design in practice.
